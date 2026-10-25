@@ -8,10 +8,9 @@ Skill لـ Claude تجعله يجيب كخبير تداول باللغة الع�
 - إدارة المخاطرة والنفسية، وبناء الاستراتيجية واختبارها إحصائياً
 
 ## التثبيت
-1. حمّل المجلد `trading-expert-ar` (أو ملف zip من Releases إن وُجد).
-2. اضغطه كملف zip بحيث يكون `SKILL.md` داخل مجلد `trading-expert-ar`.
-3. في Claude: Settings ← Capabilities ← Skills ← Upload skill، وارفع الملف.
-4. في Claude Code: ضع المجلد في `~/.claude/skills/trading-expert-ar/`.
+1. حمّل ملف [`trading-expert-ar.zip`](trading-expert-ar.zip) من هذا المستودع.
+2. في Claude: Settings ← Capabilities ← Skills ← Upload skill، وارفع الملف كما هو.
+3. في Claude Code: ضع المجلد في `~/.claude/skills/trading-expert-ar/`.
 
 ## تنبيه
 - محتوى تعليمي فقط، وليس نصيحة مالية أو توصية بالشراء أو البيع. التداول فيه مخاطرة عالية.
